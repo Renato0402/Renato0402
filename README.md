@@ -1,5 +1,5 @@
 ### Olá, me chamo Renato Vidal Moura
-###Atualmente estou no 6º semestre de Ciências da Computação na Universidade de Fortaleza 👋
+### Atualmente estou no 6º semestre de Ciências da Computação na Universidade de Fortaleza 
 
 <!--
 **Renato0402/Renato0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
