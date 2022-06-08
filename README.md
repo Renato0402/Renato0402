@@ -1,12 +1,13 @@
 ### Olá, me chamo Renato Vidal Moura
 ### Atualmente estou no 6º semestre de Ciências da Computação na Universidade de Fortaleza 
+### 🔭 Estou trabalhando no projeto MORPLEXA 
 
 <!--
 **Renato0402/Renato0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### 🔭 Estou trabalhando no projeto MORPLEXA 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
