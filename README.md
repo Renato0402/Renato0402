@@ -1,4 +1,3 @@
-## Olá, me chamo Renato Vidal Moura 
 ## :book: Atualmente estou no 7º semestre de Ciências da Computação na Universidade de Fortaleza. 
 ## 🖥️ Estou trabalhando no projeto MORPLEXA - MOdelagem baseada em Redes comPLEXas da disseminação de Ameaças cibernéticas emergentes.
 ## :book: No momento estou me aprofundando mais em React Native.
