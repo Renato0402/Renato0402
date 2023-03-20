@@ -1,5 +1,5 @@
 ## :book: Atualmente estou no 9º semestre de Ciências da Computação na Universidade de Fortaleza. 
-## :book: No momento estou me aprofundando mais em React Native.
+## :book: No momento estou me aprofundando mais em Python.
 
 <div>
 <a href="https://github.com/Renato0402">
