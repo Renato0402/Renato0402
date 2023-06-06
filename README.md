@@ -1,4 +1,4 @@
-## :book: Atualmente estou no 8º semestre de Ciências da Computação na Universidade de Fortaleza. 
+## :book: Atualmente estou no 8º semestre de Ciências da Computação na Universidade de Fortaleza (UNIFOR). 
 ## :book: No momento estou me aprofundando mais em Python.
 
 <div>
