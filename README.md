@@ -1,5 +1,4 @@
-## :book: Atualmente estou no 8º semestre de Ciências da Computação na Universidade de Fortaleza (UNIFOR). 
-## :book: No momento estou me aprofundando mais em Python.
+## :book: Bacharel em Ciências da Computação pela Universidade de Fortaleza (UNIFOR). 
 
 <div>
 <a href="https://github.com/Renato0402">
