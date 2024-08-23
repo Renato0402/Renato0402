@@ -1,4 +1,4 @@
-## :book: Bacharel em Ciências da Computação pela Universidade de Fortaleza (UNIFOR). 
+## :book: Formado em Ciências da Computação pela Universidade de Fortaleza (UNIFOR). 
 
 <div>
 <a href="https://github.com/Renato0402">
